@@ -13,7 +13,7 @@
 </p>
 
 
-WIP focused on Python Ai development, Rust and web application development
+WIP focused on `Python` Ai development, Rust and web application development
 <br />
 
 
