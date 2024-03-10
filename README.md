@@ -13,7 +13,7 @@
 </p>
 
 
-WIP focused on `Python` `Ai model` development `Automation`, `Rust` and web application development `React` `NextJS` `NodeJs`
+WIP focussing on `Python` `Ai model` development `Automation`, `Rust` and web application development `React` `NextJS` `NodeJs`
 <br />
 
 
