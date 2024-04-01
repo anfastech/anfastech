@@ -14,7 +14,7 @@
 
 
 WIP focussing on `Python` `Ai model` development `Automation`, `Rust` and web application development `React` `NextJS` `NodeJs`
-<br />
+<br /> I had a plan
 
 
 ![https://miro.medium.com/v2/resize:fit:996/0*uhwpfnmaJZXdL3Cq.gif](https://miro.medium.com/v2/resize:fit:996/0*uhwpfnmaJZXdL3Cq.gif)
