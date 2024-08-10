@@ -19,6 +19,8 @@ WIP focussing on `Python` `Ai model` development `Automation`, `Rust` and web ap
 
 ![https://miro.medium.com/v2/resize:fit:996/0*uhwpfnmaJZXdL3Cq.gif](https://miro.medium.com/v2/resize:fit:996/0*uhwpfnmaJZXdL3Cq.gif)
 
+
+- New Update
 `
-new laptop is loading!...
+  new laptop is loading!...
 `
