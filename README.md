@@ -17,7 +17,8 @@ WIP focussing on `Python` `Ai model` development `Automation`, `Rust` and web ap
 <br /> I had a plan
 
 
-![https://miro.medium.com/v2/resize:fit:996/0*uhwpfnmaJZXdL3Cq.gif](https://miro.medium.com/v2/resize:fit:996/0*uhwpfnmaJZXdL3Cq.gif)
+<!-- ![https://miro.medium.com/v2/resize:fit:996/0*uhwpfnmaJZXdL3Cq.gif](https://miro.medium.com/v2/resize:fit:996/0*uhwpfnmaJZXdL3Cq.gif) 
+-->
 
 
 - New Update
