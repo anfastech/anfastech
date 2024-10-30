@@ -23,5 +23,5 @@ WIP focussing on `Python` `Ai model` development `Automation`, `Rust` and web ap
 
 - New Update
 `
-  new laptop is loading!...
+  Let me Check!...
 `
