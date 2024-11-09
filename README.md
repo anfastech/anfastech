@@ -9,7 +9,7 @@
 # A student <b>Full Stack Web Developer 
 ## And UI Designer.</b>
 
-### I'm proficient with these tools:
+### I'm Highly proficient with these tools:
 <!--
 WIP focussing on `Python` `Ai model` development `Automation`, `Rust` and web application development `React` `NextJS` `NodeJs`
 <br /> I had a plan   -->
