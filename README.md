@@ -42,8 +42,3 @@ I also lead three clubs <b>IEDC</b>, <b>MuLearn</b>, and <b>YIP</b> as a campus 
 ![](https://github-profile-trophy.vercel.app/?username=anfastech&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-- New Update
-`
-  Let me Check!...
-` -->
