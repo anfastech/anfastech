@@ -14,8 +14,11 @@
 WIP focussing on `Python` `Ai model` development `Automation`, `Rust` and web application development `React` `NextJS` `NodeJs`
 <br /> I had a plan   -->
 
-<p align="center">
+<p >
   <img src="https://skillicons.dev/icons?perline=4&theme=dark&i=js,py,ts,nextjs,react,docker,mongodb,tailwind,cpp,figma" />
+  <div>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anfastech&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="250" alt="languages graph"  />
+  </div>
 </p>
 
 I also lead three clubs <b>IEDC</b>, <b>MuLearn</b>, and <b>YIP</b> as a campus lead at my college.  
@@ -25,9 +28,12 @@ I also lead three clubs <b>IEDC</b>, <b>MuLearn</b>, and <b>YIP</b> as a campus 
 </p>
 
 <details>
-  <summary>GitHub Statistics</summary>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=anfastech&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anfastech&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&layout=compact" alt="Top Languages"></a>
+  <summary><h1>🏆 GitHub Trophies</h1></summary>
+<!--   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=anfastech&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anfastech&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&layout=compact" alt="Top Languages"></a> -->
+
+![](https://github-profile-trophy.vercel.app/?username=anfastech&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 </details>
 
 
@@ -36,9 +42,5 @@ I also lead three clubs <b>IEDC</b>, <b>MuLearn</b>, and <b>YIP</b> as a campus 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anfastech&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anfastech&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anfastech&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anfastech&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
