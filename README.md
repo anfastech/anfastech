@@ -15,7 +15,7 @@ WIP focussing on `Python` `Ai model` development `Automation`, `Rust` and web ap
 <br /> I had a plan   -->
 
 <p >
-  <img src="https://skillicons.dev/icons?perline=4&theme=dark&i=js,py,ts,nextjs,react,docker,mongodb,cpp,figma,flutter,github,tailwindcss,threejs,postgres,dart,supabase" />
+  <img src="https://skillicons.dev/icons?perline=4&theme=dark&i=js,py,ts,nodejs,nextjs,react,docker,mongodb,cpp,figma,flutter,github,tailwindcss,threejs,postgres,dart,supabase" />
 <br />
 Familiar Tools: <br />
   <img src="https://skillicons.dev/icons?perline=4&theme=dark&i=sass,jquery,bootstrap" />
