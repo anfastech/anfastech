@@ -15,7 +15,10 @@ WIP focussing on `Python` `Ai model` development `Automation`, `Rust` and web ap
 <br /> I had a plan   -->
 
 <p >
-  <img src="https://skillicons.dev/icons?perline=4&theme=dark&i=js,py,ts,nextjs,react,docker,mongodb,cpp,figma,flutter,github,tailwindcss,threejs,bootstrap,postgres" />
+  <img src="https://skillicons.dev/icons?perline=4&theme=dark&i=js,py,ts,nextjs,react,docker,mongodb,cpp,figma,flutter,github,tailwindcss,threejs,postgres,dart,supabase" />
+<br />
+Familiar Tools: <br />
+  <img src="https://skillicons.dev/icons?perline=4&theme=dark&i=sass,jquery,bootstrap" />
 <!--   <div>
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anfastech&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="250" alt="languages graph"  />
   </div> -->
