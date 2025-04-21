@@ -1,6 +1,7 @@
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=anfastech&label=Profile%20views&color=0e75b6&style=plastic&abbreviated=true&base=0" alt="Anfas" /> &nbsp;&nbsp;
 	<img src="https://img.shields.io/github/followers/anfastech?label=Followers" alt="Anfas" /> &nbsp;&nbsp;
+	
 <!-- 	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg&url=https%3A%2F%2Fgithub.com%2Fanfastech&count_bg=%23007BB4&title_bg=%23555555&icon=slideshare.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false&style=plastic" alt="Anfas" /> &nbsp;&nbsp; -->
         <img src="https://wakatime.com/badge/user/018d89ad-278b-4b8f-9fca-5a09dd19216b.svg" alt="Anfas" /> &nbsp;&nbsp;
 </p>
@@ -17,6 +18,7 @@ WIP focussing on `Python` `Ai model` development `Automation`, `Rust` and web ap
 <p >
   <img src="https://skillicons.dev/icons?perline=4&theme=dark&i=js,py,ts,nodejs,nextjs,react,docker,mongodb,cpp,figma,flutter,github,tailwindcss,threejs,postgres,dart,supabase" />
 <br />
+	
 Familiar Tools: <br />
   <img src="https://skillicons.dev/icons?perline=4&theme=dark&i=sass,jquery,bootstrap" />
 <!--   <div>
