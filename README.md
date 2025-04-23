@@ -7,7 +7,8 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Mohammed Anfas K P, 
 # A student <b>Full Stack Web Developer 
-## And UI Designer.</b>
+## And UI Designer.
+</b>
 
 ### I'm Highly proficient with these tools:
 <!--
