@@ -29,7 +29,7 @@ Familiar Tools: <br />
 I also lead three clubs <b>IEDC</b>, <b>MuLearn</b>, and <b>YIP</b> as a campus lead at my college.  
 
 <p>
-  Currently looking to expand my network and collaborate on interesting projects. If you're interested in working together, feel free to reach out on Discord (<b>anfaskp</b>) or via <a href="mailto:kpanfas6@gmail.com">email</a>.
+  Currently looking to expand my network and collaborate on interesting projects. If you're interested in working together, feel free to reach out on Discord (<b>anfaskp</b>) or via <a href="mailto:kpanfas6@gmail.com"> <img src="https://skillicons.dev/icons?perline=4&theme=dark&i=gmail" /></a>
 </p>
 <!-- 
 <details>
