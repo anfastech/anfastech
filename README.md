@@ -7,6 +7,7 @@
 <h1 align="center">
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
 	Hey, I'm Mohammed Anfas K P
+	<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </h1>
 
 
@@ -56,7 +57,7 @@ I'm a student full-stack developer specializing in Django backends with AI integ
   <img src="https://skillicons.dev/icons?perline=7&theme=dark&i=cpp,flutter,dart,github,git" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🚀 Featured Projects
 
@@ -91,6 +92,10 @@ I'm always interested in collaborating on exciting projects or discussing new id
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
+
+<div align="center">
+  <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=anfastech&theme=react-dark" alt="Anfas Tech"/>
+</div>
 
 <p align="center">
   <i>⭐️ From <a href="https://github.com/anfastech">anfastech</a> - Building the future, one commit at a time</i>
