@@ -13,7 +13,7 @@
 <h3 align="center">Full Stack Django Developer | AI Integration Specialist</h3>
 <p align="center">
   A self-taught & passionate programmer fueling curiosity through code<br/>
-  <a href="https://anfas.vercel.app/">🌐 Portfolio</a>
+  <a href="https://anfas.vercel.app/">🌐 Portfolio</a> | <a href="https://anfas.vercel.app/resume">Resume</a>
 </p>
 
 ---
