@@ -4,6 +4,8 @@
 	<img src="https://wakatime.com/badge/user/018d89ad-278b-4b8f-9fca-5a09dd19216b.svg" alt="WakaTime" />
 </p>
 
+<img src="https://see.fontimg.com/api/rf5/nRWO0/YjYzZjZhMjcyNzM5NDM0ZGE2NmY1NzM1OTAwNmZiOWUudHRm/QU5GQVM/scoreboard-type-italic-personal.png?r=fs&h=97&w=1000&fg=04A758&bg=000000&tb=1&s=97" />
+
 <h1 align="center">
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
 	Hey, I'm Mohammed Anfas K P
