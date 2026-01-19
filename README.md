@@ -5,7 +5,7 @@
 </p>
 <br />
 <br />
-<img src="https://see.fontimg.com/api/rf5/ov34z/ZTczNjIzMjE5ZmNjNDQ0MjhhNTQ5MWFjZjA3M2Q2Njgub3Rm/QU5GQVM/dan-stargate-3d-semi-italic.png?r=fs&h=97&w=1000&fg=04A758&bg=000000&tb=1&s=97" />
+<img src="https://see.fontimg.com/api/rf5/ov34z/ZTczNjIzMjE5ZmNjNDQ0MjhhNTQ5MWFjZjA3M2Q2Njgub3Rm/QU5GQVMuLj4/dan-stargate-3d-semi-italic.png?r=fs&h=97&w=1000&fg=04A758&bg=000000&tb=1&s=97" />
 <br />
 <br />
 
@@ -35,6 +35,9 @@ I'm a student full-stack developer specializing in Django backends with AI integ
 - 🤝 Open to collaborating on innovative projects and expanding my network
 
 ---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### 🛠️ Tech Stack
 
