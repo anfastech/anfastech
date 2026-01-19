@@ -9,8 +9,12 @@
 	Hey, I'm Mohammed Anfas K P
 </h1>
 
+
 <h3 align="center">Full Stack Django Developer | AI Integration Specialist</h3>
-<p align="center">A self-taught & passionate programmer fueling curiosity through code</p>
+<p align="center">
+  A self-taught & passionate programmer fueling curiosity through code<br/>
+  <a href="https://anfas.vercel.app/">🌐 Portfolio</a>
+</p>
 
 ---
 
