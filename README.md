@@ -5,7 +5,7 @@
 </p>
 <br />
 <br />
-<img src="https://see.fontimg.com/api/rf5/ov34z/ZTczNjIzMjE5ZmNjNDQ0MjhhNTQ5MWFjZjA3M2Q2Njgub3Rm/QU5GQVM/dan-stargate-3d-semi-italic.png?r=fs&h=107&w=1000&fg=04A758&bg=000000&tb=1&s=107" />
+<img src="https://see.fontimg.com/api/rf5/ov34z/ZTczNjIzMjE5ZmNjNDQ0MjhhNTQ5MWFjZjA3M2Q2Njgub3Rm/QU5GQVM/dan-stargate-3d-semi-italic.png?r=fs&h=95&w=1000&fg=04A758&bg=000000&tb=1&s=107" />
 <br />
 <br />
 
