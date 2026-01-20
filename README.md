@@ -5,9 +5,14 @@
 </p>
 <br />
 <br />
-<img src="https://see.fontimg.com/api/rf5/ov34z/ZTczNjIzMjE5ZmNjNDQ0MjhhNTQ5MWFjZjA3M2Q2Njgub3Rm/QU5GQVM/dan-stargate-3d-semi-italic.png?r=fs&h=95&w=1000&fg=04A758&bg=000000&tb=1&s=107" />
+<div align=center>
+	<img src="https://see.fontimg.com/api/rf5/ov34z/ZTczNjIzMjE5ZmNjNDQ0MjhhNTQ5MWFjZjA3M2Q2Njgub3Rm/QU5GQVM/dan-stargate-3d-semi-italic.png?r=fs&h=95&w=1000&fg=04A758&bg=000000&tb=1&s=107" />
+	<!-- &nbsp;
+	&nbsp; -->
+	<!-- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzAwYTFkOWF5OHVncm55b2txcHlnMTdtM2JqdmZqcXI5djZkYnR1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xLzOrO1e19V3q/giphy.gif" width="380" /> -->
+</div>
 <br />
-<br />
+<p align="center"><a href="https://github.com/anfastech"><img src="https://readme-typing-svg.herokuapp.com?size=36&duration=300&pause=500&color=04a758&width=500&height=60&lines=AI+Startup+Catalyst+֍;Django+Specialist+֍;Tech+Enthusiast+֍;Public+Speaker+֍" alt="Typing SVG"></a></p>
 
 <h1 align="center">
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
