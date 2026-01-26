@@ -69,7 +69,7 @@ I'm a student full-stack developer specializing in Django backends with AI integ
 		  Project management automation (work in progres)
       </td>
     </tr>
-   <tr>
+   <!-- <tr>
      <td>
         <a href="https://github.com/anfastech/mindmap-gen-ai">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=anfastech&repo=mindmap-gen-ai&theme=transparent&hide_border=false&border_radius=15" />
@@ -80,7 +80,7 @@ I'm a student full-stack developer specializing in Django backends with AI integ
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=anfastech&repo=msmes-data-generator-ai&theme=transparent&hide_border=false&border_radius=15" />
         </a>
       </td>
-    </tr>
+    </tr> -->
   </table>
 </div>
 
