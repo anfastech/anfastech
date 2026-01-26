@@ -44,37 +44,49 @@ I'm a student full-stack developer specializing in Django backends with AI integ
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-### 🛠️ Tech Stack
-
-**Primary Technologies**
-
-<p>
-  <img src="https://skillicons.dev/icons?perline=7&theme=dark&i=python,django,js,ts,react,nextjs,nodejs" />
-</p>
-
-**Frontend & Styling**
-
-<p>
-  <img src="https://skillicons.dev/icons?perline=7&theme=dark&i=tailwindcss,figma,threejs,sass,bootstrap" />
-</p>
-
-**Database & Backend**
-
-<p>
-  <img src="https://skillicons.dev/icons?perline=7&theme=dark&i=mongodb,postgres,supabase,docker" />
-</p>
-
-**Additional Skills**
-
-<p>
-  <img src="https://skillicons.dev/icons?perline=7&theme=dark&i=cpp,flutter,dart,github,git" />
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🚀 Featured Projects
+<h3 align="left">Projects</h3>
 
-> Coming soon - Currently organizing my best work for showcase
+<div align="center">
+  <table>
+    <tr>
+      <td>
+          <img width="547" height="247" alt="image" src="https://github.com/user-attachments/assets/9a3347d7-0340-4463-9229-c37054fcb744" />
+		  <img width="547" alt="image" src="https://github.com/user-attachments/assets/5a9d0300-2a7b-4f2a-8304-7bac8781931e" />
+      </td>
+      <td>
+        <a href="https://zlaqa-demo-v1.onrender.com/">
+			 Link,
+        </a>
+	    	I built the first-ever speech analysis AI for the startup Zlaqa AI Lab Pvt. Ltd., completing their conceptual development through to the first AI version and releasing the beta version of the software. <br /> <br /> Tech stack: Django, celery, redis...
+      </td>
+    </tr>
+    <tr>
+     <td>
+        <a href="https://github.com/anfastech/productify">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=anfastech&repo=productify&theme=transparent&hide_border=false&border_radius=15" />
+        </a>
+      </td>
+      <td>
+		  Project management automation (work in progres)
+      </td>
+    </tr>
+   <tr>
+     <td>
+        <a href="https://github.com/anfastech/mindmap-gen-ai">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=anfastech&repo=mindmap-gen-ai&theme=transparent&hide_border=false&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/anfastech/msmes-data-generator-ai">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=anfastech&repo=msmes-data-generator-ai&theme=transparent&hide_border=false&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
@@ -109,6 +121,33 @@ I'm always interested in collaborating on exciting projects or discussing new id
 <div align="center">
   <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=anfastech&theme=react-dark" alt="Anfas Tech"/>
 </div>
+
+
+### 🛠️ Tech Stack
+
+**Primary Technologies**
+
+<p>
+  <img src="https://skillicons.dev/icons?perline=7&theme=dark&i=python,django,js,ts,react,nextjs,nodejs" />
+</p>
+
+**Frontend & Styling**
+
+<p>
+  <img src="https://skillicons.dev/icons?perline=7&theme=dark&i=tailwindcss,figma,threejs,sass,bootstrap" />
+</p>
+
+**Database & Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?perline=7&theme=dark&i=mongodb,postgres,supabase,docker" />
+</p>
+
+**Additional Skills**
+
+<p>
+  <img src="https://skillicons.dev/icons?perline=7&theme=dark&i=cpp,flutter,dart,github,git" />
+</p>
 
 <p align="center">
   <i>⭐️ From <a href="https://github.com/anfastech">anfastech</a> - Building the future, one commit at a time</i>
