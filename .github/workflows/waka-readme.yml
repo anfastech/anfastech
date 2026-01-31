@@ -18,4 +18,4 @@ jobs:
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_TOTAL: true
-          IGNORED_LANGUAGES: "HTML,C"
+          IGNORED_LANGUAGES: "HTML,CSS"
