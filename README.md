@@ -59,16 +59,16 @@ I'm a student full-stack developer specializing in Django backends with AI integ
 	    	I built the first-ever speech analysis AI for the startup Zlaqa AI Lab Pvt. Ltd., completing their conceptual development through to the first AI version and releasing the beta version of the software. <br /> <br /> Tech stack: Django, celery, redis...
       </td>
     </tr>
-    <!-- <tr>
+    <tr>
      <td>
-        <a href="https://github.com/anfastech/productify">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=anfastech&repo=productify&theme=transparent&hide_border=false&border_radius=15" />
+        <a href="https://github.com/anfastech/finepro">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=anfastech&repo=finepro&theme=transparent&hide_border=false&border_radius=15" />
         </a>
       </td>
       <td>
 		  Project management automation (work in progres)
       </td>
-    </tr> -->
+    </tr>
    <!-- <tr>
      <td>
         <a href="https://github.com/anfastech/mindmap-gen-ai">
