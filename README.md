@@ -65,9 +65,6 @@ I'm a student full-stack developer specializing in Django backends with AI integ
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=anfastech&repo=finepro&theme=transparent&hide_border=false&border_radius=15" />
         </a>
       </td>
-      <td>
-		  Project management automation (work in progres)
-      </td>
     </tr>
    <!-- <tr>
      <td>
