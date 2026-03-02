@@ -44,15 +44,15 @@ I'm a student full-stack developer specializing in Django backends with AI integ
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 February 2024 - To: 28 February 2026
+From: 07 February 2024 - To: 01 March 2026
 
-Total Time: 491 hrs 10 mins
+Total Time: 491 hrs 49 mins
 
-TypeScript                 129 hrs 34 mins       ██████▒░░░░░░░░░░░░░░░░░░   25.88 %
-JavaScript                 102 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.39 %
-Python                     65 hrs 11 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
-HTML                       47 hrs                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
-Markdown                   21 hrs 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+TypeScript                 129 hrs 34 mins       ██████▒░░░░░░░░░░░░░░░░░░   25.85 %
+JavaScript                 102 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.37 %
+Python                     65 hrs 26 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 %
+HTML                       47 hrs 3 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
+Markdown                   21 hrs 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
 ```
 
 <!--END_SECTION:waka-->
