@@ -44,7 +44,7 @@ I'm a student full-stack developer specializing in Django backends with AI integ
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 February 2024 - To: 14 March 2026
+From: 07 February 2024 - To: 15 March 2026
 
 Total Time: 505 hrs 42 mins
 
